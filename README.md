@@ -61,7 +61,7 @@ The Hangman game challenges the player to guess a hidden word one letter at a ti
    ```
 *Note*: The CLI and GUI versions are separate programs and need to be run individually.
 
-## **Tools and Techonologies used**
+## **Tools and Techonologies Used**
 
 - Python 3.13.4 — The programming language used to develop both the CLI and GUI versions.
 - Tkinter — Python’s built-in library for creating the graphical user interface (GUI) in the project.
