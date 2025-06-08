@@ -74,7 +74,7 @@ The Hangman game challenges the player to guess a hidden word one letter at a ti
 This Hangman game project was inspired and developed using the following resources:
 
 - **Project Idea and Implementation**:  
-  [Python Tutorial by freeCodeCam](https://www.freecodecamp.org/news/python-projects-for-beginners/) — Provided the core concept and detailed explanation for building the Hangman game.
+  [Python Tutorial by freeCodeCamp](https://www.freecodecamp.org/news/python-projects-for-beginners/) — Provided the core concept and detailed explanation for building the Hangman game.
 
 - **Word List Source**:  
   [Random Lists - Words JSON](https://www.randomlists.com/data/words.json) — Used as the source for random words to guess in the game.
