@@ -1,7 +1,7 @@
 import random
 import string
 from word_list import word_list  # External file containing list of words
-from visuals import visuals_dict  # External file containing hangman visuals per chance lef
+from visuals import visuals_dict  # External file containing hangman visuals per chance left
 
 def pick_word(word_list):
     # Keep picking a random word until it contains no '-' or spaces
