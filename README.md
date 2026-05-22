@@ -80,7 +80,6 @@ This Hangman game project was inspired and developed using the following resourc
   [GeeksforGeeks - Python GUI Tkinter Tutorial](https://www.geeksforgeeks.org/python-gui-tkinter/) — Helped in designing and implementing the graphical user interface using Tkinter.
 
 
-### Thank You!
 
 
 
