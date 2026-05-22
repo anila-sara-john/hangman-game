@@ -33,29 +33,29 @@ The Hangman game challenges the player to guess a hidden word one letter at a ti
 1. Install Python 3.x on your system if you don’t have it already.  
    Download from [python.org](https://www.python.org/downloads/).
    
-3. Clone the repository
+2. Clone the repository
    - Open your terminal and run the following command:
    ```bash
    git clone <repository_url>
    ```
    *Replace <repository_url> with your own fork's URL if applicable.*
      
-4. Navigate to the project directory
+3. Navigate to the project directory
    - Run the command in the terminal:
      ```bash
      cd hangman-game
      ```
 ▶️ Running the CLI Version
 
-5. To start the command-line interface version of the game, run:
+4. To start the command-line interface version of the game, run:
    ```bash
    python hangman_cli.py
    ```
-6. Follow the instructions displayed in the terminal to play.
+5. Follow the instructions displayed in the terminal to play.
 
 ▶️ Running the GUI Version
 
-7. To start the graphical user interface version, run:
+6. To start the graphical user interface version, run:
    ```bash
    python hangman_gui.py
    ```
