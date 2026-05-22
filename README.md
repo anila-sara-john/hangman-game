@@ -1,11 +1,7 @@
 # **Hangman Game**
 
-This is a comprehensive Hangman game project that offers two gameplay experiences:  
-a classic text-based Command-Line Interface (CLI) version for quick and straightforward play,  
-and a graphical user interface (GUI) built with Python’s Tkinter library for a more interactive and visually engaging experience.  
-
-Both versions implement core Hangman game mechanics, including tracking guessed letters,  
-displaying hangman visuals, and handling win/loss conditions.
+This is a comprehensive Hangman game project that offers two gameplay experiences: a classic text-based Command-Line Interface (CLI) version for quick and straightforward play, and a graphical user interface (GUI) built with Python’s Tkinter library for a more interactive and visually engaging experience.  
+Both versions implement core Hangman game mechanics, including tracking guessed letters, displaying hangman visuals, and handling win/loss conditions.
 
 **Each mode is implemented in a separate file and should be run individually.**
 
