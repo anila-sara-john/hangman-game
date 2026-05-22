@@ -18,6 +18,14 @@ displaying hangman visuals, and handling win/loss conditions.
 - GUI built with Tkinter for interactive play  
 - Both versions show hangman visuals and tracks guesses
 
+## **Tools and Techonologies Used**
+
+- Python 3.13.4 — The programming language used to develop both the CLI and GUI versions.
+- Tkinter — Python’s built-in library for creating the graphical user interface (GUI) in the project.
+- random — Python standard module used to select words randomly from the word list.
+- VS Code — Code editor for writing and running the Python scripts.
+- GitHub — Used for version control and hosting the project repository.
+- 
 ## **Gameplay**
 
 The Hangman game challenges the player to guess a hidden word one letter at a time before the hangman figure is fully drawn.
@@ -61,13 +69,6 @@ The Hangman game challenges the player to guess a hidden word one letter at a ti
    ```
 *Note*: The CLI and GUI versions are separate programs and need to be run individually.
 
-## **Tools and Techonologies Used**
-
-- Python 3.13.4 — The programming language used to develop both the CLI and GUI versions.
-- Tkinter — Python’s built-in library for creating the graphical user interface (GUI) in the project.
-- random — Python standard module used to select words randomly from the word list.
-- VS Code — Code editor for writing and running the Python scripts.
-- GitHub — Used for version control and hosting the project repository.
 
 ## **Credits**
 
