@@ -25,7 +25,7 @@ displaying hangman visuals, and handling win/loss conditions.
 - random — Python standard module used to select words randomly from the word list.
 - VS Code — Code editor for writing and running the Python scripts.
 - GitHub — Used for version control and hosting the project repository.
-- 
+  
 ## **Gameplay**
 
 The Hangman game challenges the player to guess a hidden word one letter at a time before the hangman figure is fully drawn.
